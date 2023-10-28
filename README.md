@@ -1,6 +1,6 @@
 # CS250-Fall23-Group20
 Group 20 for CS 250
-NAME: Jai Sharma, Leo Findley and Todd Hutchison
+NAME: Jai Sharma, Leo Findley, and Todd Hutchison
 
 
 
@@ -23,7 +23,6 @@ Group 20 Contract
 -Decisions will be made by vote, and ⅔ of the votes will count as the decision being made
 
 -If a member is absent, the other members will communicate with the absentee and summarize any work they have done on the assignment in class
-
 
 Signed By: Leo Findley, Jai Sharma, Todd Hutchison.
 
