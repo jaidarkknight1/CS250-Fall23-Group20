@@ -24,5 +24,5 @@ Group 20 Contract
 
 -If a member is absent, the other members will communicate with the absentee and summarize any work they have done on the assignment in class
 
-Signed By: Leo Findley, Jai Sharma, Todd Hutchison.
+Signed By: Leo Findley, Jai Sharma, Todd  Hutchison.
 
